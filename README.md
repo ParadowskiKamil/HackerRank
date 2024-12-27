@@ -1,6 +1,6 @@
 # HackerRank
 
-https://www.hackerrank.com/
+https://www.hackerrank.com
 
 ![alt text](https://www.doit.com/wp-content/uploads/2023/06/1_jbcsrlrvfbdnbecw_ljf4g.png)
 
